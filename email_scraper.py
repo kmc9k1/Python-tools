@@ -1,3 +1,6 @@
+###Credit for this scraper goes to Aleksa Tamburovski##
+#If you are learning Python, I highly recommend his courses#
+
 from bs4 import BeautifulSoup #https://www.crummy.com/software/BeautifulSoup/bs4/doc/#beautifulsoup
 import requests #https://docs.python-requests.org/en/master/
 import requests.exceptions #https://2.python-requests.org/en/v3.0.0/api/#requests.RequestException
