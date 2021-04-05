@@ -1,4 +1,4 @@
-###Credit for this scraper goes to Aleksa Tamburovski##
+###Credit for this scraper goes to Aleksa Tamburkovski##
 #If you are learning Python, I highly recommend his courses#
 
 from bs4 import BeautifulSoup #https://www.crummy.com/software/BeautifulSoup/bs4/doc/#beautifulsoup
